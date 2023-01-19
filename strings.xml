@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="btn2">this is second button</string>
+    <string name="btn3">this is third button</string>
+    <string name="btn4">this is fourth button</string>
+    <string name="btn6">this is 6th button</string>
+<!--    Cntl+D-->
+    <string name="btn5">this is fiveth button</string>
+    <string name="hello">HELLO</string>
+</resources>
